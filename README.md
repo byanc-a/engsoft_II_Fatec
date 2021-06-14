@@ -28,4 +28,4 @@ Aplicado em diferentes áreas do sistema, tendo em vista o acesso praticável em
 
 # 3. Use cases
 
-
+<img src="/Docs./use cases.png" alt="Casos de uso"/>
