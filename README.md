@@ -25,3 +25,7 @@ Aplicado em diferentes áreas do sistema, tendo em vista o acesso praticável em
  - BYANCA DE ARAUJO SANTOS, RA: 0030481921016
  - LUCAS VINICIUS APOLINARIO DE OLIVEIRA, RA: 0030481921017
  - PAULO HENRIQUE RAITZ CERVENCOVE, RA: 0030481921006
+
+# 3. Use cases
+
+
