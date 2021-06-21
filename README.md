@@ -37,3 +37,9 @@ Aplicado em diferentes áreas do sistema, tendo em vista o acesso praticável em
 # 5. Protótipo
 
 Visualize nosso protótipo no [Figma](https://www.figma.com/file/aKbuhpeJkacSpAPrgoqjhr/Trabalho-de-Compras?node-id=0%3A1) 
+
+# 6. Diagramas no Astah
+
+Nossos casos de uso de alto nivel e a expansaõ dos mesmo junto com o diagrama de classes se encontra no arquivo do [Astah](https://github.com/byanc-a/engsoft_II_Fatec/blob/main/Docs./UseCase%20Diagram0.asta) podendo ser acessado pelos documentos deste repositório.
+
+
