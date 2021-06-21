@@ -36,4 +36,4 @@ Aplicado em diferentes áreas do sistema, tendo em vista o acesso praticável em
 
 # 5. Protótipo
 
-Visualize nosso protótipo no <a href=“https://www.figma.com/file/aKbuhpeJkacSpAPrgoqjhr/Trabalho-de-Compras?node-id=0%3A1“>Figma</a>
+Visualize nosso protótipo no [Figma](https://www.figma.com/file/aKbuhpeJkacSpAPrgoqjhr/Trabalho-de-Compras?node-id=0%3A1) 
