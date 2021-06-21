@@ -33,3 +33,7 @@ Aplicado em diferentes áreas do sistema, tendo em vista o acesso praticável em
 # 4. Modelo Conceitual
 
 <img src="/Docs./modelo conceitual.png" alt="Diagrama de classes"/>
+
+# 5. Protótipo
+
+Visualize nosso protótipo no <a href=“https://www.figma.com/file/aKbuhpeJkacSpAPrgoqjhr/Trabalho-de-Compras?node-id=0%3A1“>Figma</a>
