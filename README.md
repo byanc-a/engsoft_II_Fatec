@@ -42,4 +42,5 @@ Visualize nosso protótipo no [Figma](https://www.figma.com/file/aKbuhpeJkacSpAP
 
 Nossos casos de uso de alto nivel e a expansão dos mesmo junto com o diagrama de classes se encontra no arquivo do [Astah](https://github.com/byanc-a/engsoft_II_Fatec/blob/main/Docs./UseCase%20Diagram0.asta) podendo ser acessado pelos documentos deste repositório.
 
-
+# 7. Documento de Concepção do sistema
+Visualize nosso [Documento de Requisitos](https://fatecspgov-my.sharepoint.com/:w:/g/personal/byanca_santos_fatec_sp_gov_br/EedZ8d04iTZDqzQZHHUboukBhgji2ZdWXoujqnvRuujKzg?e=XxvnFX)
